@@ -68,9 +68,10 @@ cd hr-ai-agent
 ### 4️⃣ Deploy & Test
 - Send a test email with a resume attachment to the connected Gmail account.
 - Check Google Sheets for automated analysis results.
-
-🧑‍💻 Author
-[N.SURYA PRAKASH REDDY]
-🔗 www.linkedin.com/in/nsprakashreddy
-📧 suryareddynallimilli@gmail.com
+---
+  
+## 🧑‍💻 Author
+**[N.SURYA PRAKASH REDDY]**  
+🔗 [www.linkedin.com/in/nsprakashreddy](https://www.linkedin.com/in/nsprakashreddy)  
+📧 **suryareddynallimilli@gmail.com**
 
